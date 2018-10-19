@@ -1,1 +1,8 @@
-book is a good things.
+ls  -ah  显示全部文件包括隐藏的
+pwd  显示当前路径
+mkdir 文件夹
+git init  创建仓库
+git add readme.txt 向仓库中添加文件
+git commit -m "提示文字" 提交文件到仓库
+git status 查看仓库的状态
+git diff readme.txt  查看different
